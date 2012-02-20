@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+*.iws
+.DS_Store
+/tmp
+/modules
+/lib
+/test-result
+/logs
